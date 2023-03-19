@@ -22,12 +22,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47svoqlujyys5zh9k9br5w55fhiw8cespm4jo070ga&rid=giphy.gif&ct=g" width="500"/>
 </div>
 <div align="right">
+ 
 
-👨‍💻 طالبة علوم حاسب مسار ذكاء اصطناعي في [جامعة الباحة](https://bu.edu.sa/ar/home)
+### 👨‍💻 طالبة علوم حاسب مسار ذكاء اصطناعي في [جامعة الباحة](https://bu.edu.sa/ar/home)
 
-🤩 مهتمه **بحل التحديات البرمجية وتطوير التطبيقات**
+### 🤩 مهتمه **بحل التحديات البرمجية وتطوير التطبيقات**
 
-🔭 أتطلع أن أصبح **مبرمجة محترفه** واقوم بأشياء مفيدة للعالم 
+### 🔭 أتطلع أن أصبح **مبرمجة محترفه** واقوم بأشياء مفيدة للعالم
+ 
+ 
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimaalzahrani" alt="fatimaalzahrani" /></a> </p>
 <p align="right">
