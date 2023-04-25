@@ -62,9 +62,8 @@ You can click the Preview link to take a look at your changes.
   </a> -->
 
 <!--    <a href="https://www.hackerrank.com/12fatimah_15"><img src="https://www.christian-mcarthur.com/sites/default/files/styles/large/public/field/image/hackerrank-logo.jpg?itok=emkNnuMJ" alt="hakerrank Badge" width="60" height="50"/></a> -->
-   <a href="https://profile.satr.codes/Fatima_ALzahrani/public/overview"><img src="https://user-images.githubusercontent.com/128253849/226166184-533c35ea-e887-4bc5-86de-f9852560b757.svg" alt="كودرهب" height="30" width="40"/</a>
-      <a href="mailto:12fatimah.15@gmail.com">
-    <img src="https://th.bing.com/th?id=OIP.N3cFVgAShuhUnvU-yBB12AHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2" alt="Gmail Badge" height="30" width="40"/>
+   <a href="https://profile.satr.codes/Fatima_ALzahrani/public/overview"target="blank"><img align="center" src="https://user-images.githubusercontent.com/128253849/226166184-533c35ea-e887-4bc5-86de-f9852560b757.svg" alt="كودرهب" height="30" width="40"/></a>
+      <a href="mailto:12fatimah.15@gmail.com"target="blank"><img align="center" src="https://th.bing.com/th?id=OIP.N3cFVgAShuhUnvU-yBB12AHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.1&pid=3.1&rm=2" alt="Gmail Badge" height="30" width="40"/>
   </a>
 <a href="https://twitter.com/fatimaalazhranl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatimaalazhranl" height="30" width="40" /></a>
 <a href="https://kaggle.com/fatimaalzahrani12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatimaalzahrani12" height="30" width="40" /></a>
