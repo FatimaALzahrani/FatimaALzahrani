@@ -15,14 +15,14 @@
 
 <br>
 
-## About Me
+## About Me 👩🏻‍💻
 - **I am graduating from Al-Baha University, and I have a keen interest in developing applications and solving problems in programming.**
 - **Bachelor : Computer Science**
 - **Master : Artificial Intelligence**
 
 <br>
 
-## Achievements & Awards
+## Achievements & Awards 🎖️
 - **2nd Place - NASA International Space Apps Challenge 2024**: Secured 2nd place with an innovative solution using NASA’s open-source resources.
 - **3rd Place - Waqf Challenge Hackathon 2024**: Competed against 1,500+ participants and earned 3rd place.
 - **Finalist - Quranic Applications Challenge**: Advanced to the final stage, representing 45 countries.
@@ -33,7 +33,7 @@ Qualified among the top 3,000 students in a national competition.
 
 <br>
 
-## Skills
+## Skills 🦾
 - **Programming Languages**: Python, Java, JavaScript, C++
 - **Web Development**: React, HTML, CSS, Bootstrap, Tailwind CSS
 - **Backend Development**: Django, Flask, Node.js, Express.js
@@ -45,7 +45,7 @@ Qualified among the top 3,000 students in a national competition.
 
 <br>
 
-## Languages and Tools
+## Languages and Tools 🛠️
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -250,7 +250,7 @@ Qualified among the top 3,000 students in a national competition.
 <br>
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=fatimaalzahrani&label=Profile%20views&color=957CB7&style=plastic" width="300" />
+ <img src="https://komarev.com/ghpvc/?username=fatimaalzahrani&label=Profile%20views&color=957CB7&style=plastic" width="200" />
 </div>
 
 
@@ -285,7 +285,7 @@ Here's a glimpse of the skills I bring to the table:
 - 📫 <a href="mailto:dev.aakashv@gmail.com">Send an email</a> 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love electronics and programming.
-
+-->
 ## My Stats 🔥:
 
 
@@ -313,22 +313,17 @@ Here's a glimpse of the skills I bring to the table:
 <br />
 <br />
 <hr>
+<!--
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=fatimaalzahrani&label=Profile%20views&color=0e75b6&style=plastic" width="200" />
 </div>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaalzahrani&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaalzahrani" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimaalzahrani" alt="fatimaalzahrani" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 -->
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/fatima-alzahrani-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima-alzahrani-" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fatima_alzahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatima_alzahrani" height="30" width="40" /></a>
 </p>
