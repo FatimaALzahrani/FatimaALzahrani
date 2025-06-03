@@ -51,7 +51,11 @@ Currently, I'm focused on enhancing my skills in AI and software engineering whi
     </tr>
   </table>
 </div>
+
+
 ## 🏆 Achievements
+
+
 <div align="center">
   <table>
     <tr>
@@ -183,41 +187,11 @@ Currently, I'm focused on enhancing my skills in AI and software engineering whi
 
 <div align="center">
   <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">QualiAI</h3>
-        <div align="center">
-          <a href="https://example.com/quali-ai" target="_blank">
-            <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=appveyor" alt="View Project" />
-          </a>
-          <p>
-            <strong>Python • Flask • GPT-4 API • BERT • Firebase</strong>
-          </p>
-          <p>
-            Smart platform automating Self Study Reports for academic programs. Analyzes Excel files, matches evaluation questions with national standards using semantic similarity, and leverages GPT-4 to produce structured Arabic academic reports.
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Misbar - مِسْبَار</h3>
-        <div align="center">
-          <a href="https://example.com/misbar" target="_blank">
-            <img src="https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=appveyor" alt="View Project" />
-          </a>
-          <p>
-            <strong>React • Flask • Sentinel Hub API • Google Earth Engine • AI</strong>
-          </p>
-          <p>
-            Smart platform using satellite data and AI to monitor irrigation activities, classify farms by water usage, detect violations, and support government decision-making with interactive maps and auto-alerts.
-          </p>
-        </div>
-      </td>
-    </tr>
-      <tr>
+            <tr>
       <td width="50%">
         <h3 align="center">Grass | غِراس App</h3>
         <div align="center">
-          <a href="https://example.com/grass-app" target="_blank">
+          <a href="https://fatimamohammedalzahrani.on.drv.tw/My/Grass/index.html" target="_blank">
             <img src="https://img.shields.io/badge/View-Project-green?style=for-the-badge&logo=appveyor" alt="View Project" />
           </a>
           <p>
@@ -231,7 +205,7 @@ Currently, I'm focused on enhancing my skills in AI and software engineering whi
       <td width="50%">
         <h3 align="center">Multi-Agent Stock Trading</h3>
         <div align="center">
-          <a href="https://example.com/stock-trading" target="_blank">
+          <a href="https://multi-agent-predictive-stock-trading.onrender.com/" target="_blank">
             <img src="https://img.shields.io/badge/View-Project-red?style=for-the-badge&logo=appveyor" alt="View Project" />
           </a>
           <p>
@@ -243,11 +217,41 @@ Currently, I'm focused on enhancing my skills in AI and software engineering whi
         </div>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">QualiAI</h3>
+        <div align="center">
+          <a href="https://qualiai.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=appveyor" alt="View Project" />
+          </a>
+          <p>
+            <strong>Python • Flask • GPT-4 API • BERT • Firebase</strong>
+          </p>
+          <p>
+            Smart platform automating Self Study Reports for academic programs. Analyzes Excel files, matches evaluation questions with national standards using semantic similarity, and leverages GPT-4 to produce structured Arabic academic reports.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Misbar - مِسْبَار</h3>
+        <div align="center">
+          <a href="https://misbar-tau.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View-Project-orange?style=for-the-badge&logo=appveyor" alt="View Project" />
+          </a>
+          <p>
+            <strong>React • Flask • Sentinel Hub API • Google Earth Engine • AI</strong>
+          </p>
+          <p>
+            Smart platform using satellite data and AI to monitor irrigation activities, classify farms by water usage, detect violations, and support government decision-making with interactive maps and auto-alerts.
+          </p>
+        </div>
+      </td>
+    </tr>
         <tr>
       <td width="50%">
         <h3 align="center">GNN Fraud Detection</h3>
         <div align="center">
-          <a href="https://example.com/gnn-fraud" target="_blank">
+          <a href="https://github.com/FatimaALzahrani/GNN-for-Anomaly-Detection-in-Financial-Transactions" target="_blank">
             <img src="https://img.shields.io/badge/View-Project-purple?style=for-the-badge&logo=appveyor" alt="View Project" />
           </a>
           <p>
@@ -261,7 +265,7 @@ Currently, I'm focused on enhancing my skills in AI and software engineering whi
       <td width="50%">
         <h3 align="center">Quranic Maqam Classification</h3>
         <div align="center">
-          <a href="https://example.com/maqam-classification" target="_blank">
+          <a href="https://quranic-maqam-classification.onrender.com/" target="_blank">
             <img src="https://img.shields.io/badge/View-Project-yellow?style=for-the-badge&logo=appveyor" alt="View Project" />
           </a>
           <p>
@@ -285,19 +289,19 @@ Currently, I'm focused on enhancing my skills in AI and software engineering whi
 ## 📜 Certifications
 
 <div align="center">
-  <a href="#">
+  <a href="https://drive.google.com/file/d/1ifhbC0RsE2AXE95vk0MkXZnvas8_VLkg/view">
     <img src="https://img.shields.io/badge/Journey_to_AI_World-AI_Governance_Association-blue?style=for-the-badge" alt="AI World"/>
   </a>
-  <a href="#">
+  <a href="https://drive.google.com/file/d/1ysyFqof-fCZa6JMMay_kHKG_liBpRDbp/view?usp=sharing">
     <img src="https://img.shields.io/badge/NASA_Space_Apps_Challenge-NASA-red?style=for-the-badge" alt="NASA"/>
   </a>
-  <a href="#">
+  <a href="https://eu.credential.net/9795d744-d054-4f7d-84bc-53ba38348805">
     <img src="https://img.shields.io/badge/Data_Analysis-SDA_Le_Wagon-ff69b4?style=for-the-badge" alt="Data Analysis"/>
   </a>
-  <a href="#">
+  <a href="https://drive.google.com/file/d/16UHCiSxtIt7Pg3GiO_WkZNwHIaot5Nee/view?usp=sharing">
     <img src="https://img.shields.io/badge/Large_Language_Models-SDAIA-green?style=for-the-badge" alt="LLMs"/>
   </a>
-  <a href="#">
+  <a href="https://drive.google.com/file/d/1tWtJ_7CsiwhEgzxKVFSm7UFPWQhhVE5f/view?usp=sharing">
     <img src="https://img.shields.io/badge/HCIA_AI-Huawei-red?style=for-the-badge" alt="Huawei"/>
   </a>
 </div>
