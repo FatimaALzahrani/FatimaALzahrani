@@ -51,57 +51,53 @@ Currently, I'm focused on enhancing my skills in AI and software engineering whi
     </tr>
   </table>
 </div>
-
 ## 🏆 Achievements
-
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://img.shields.io/badge/1st%20Place-Agricultural%20Innovation%20Hackathon%202025-green?style=for-the-badge" alt="1st Place"/>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🥇_1st_Place-Agricultural_Innovation_Hackathon_2025-2ecc71?style=for-the-badge&logo=envira&logoColor=white" alt="1st Place"/>
+        <p>Competed with 180+ participants in event hosted by Agricultural Fund & Albaha University</p>
       </td>
-      <td>
-        Competed with 180+ participants in an event hosted by the Agricultural Fund & Albaha University
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🥈_2nd_Place-AwqafTech_Hackathon_2025-95a5a6?style=for-the-badge&logo=islam&logoColor=white" alt="2nd Place"/>
+        <p>Selected among 800+ participants and 200+ teams from 40 countries</p>
+      </td>
+    </tr>
+        <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🥉_3rd_Place-Qualithon_2025_(AI_in_Academic_Quality)-e67e22?style=for-the-badge&logo=google-scholar&logoColor=white" alt="3rd Place"/>
+        <p>Competed against 60+ teams hosted by Saudi AI Governance Association</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🥈_2nd_Place-NASA_Space_Apps_Challenge_2024-3498db?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Challenge"/>
+        <p>Organized by Albaha University, Saudi Space Agency & Communications Authority</p>
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://img.shields.io/badge/2nd%20Place-AwqafTech%20Hackathon%202025-silver?style=for-the-badge" alt="2nd Place"/>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🥉_3rd_Place-Waqf_Challenge_Hackathon_2024-27ae60?style=for-the-badge&logo=mosque&logoColor=white" alt="Waqf Challenge"/>
+        <p>Among 1,500+ participants in Ministry of Awqaf initiative</p>
       </td>
-      <td>
-        Selected among 800+ participants and 200+ teams from 40 countries, organized by the General Authority for Awqaf & Neo Digital
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/3rd%20Place-Qualithon%202025-bronze?style=for-the-badge" alt="3rd Place"/>
-      </td>
-      <td>
-        Competed against 60+ teams in AI for Academic Quality, hosted by the Saudi AI Governance Association
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆_Finalist-Quranic_Applications_Challenge_2024-9b59b6?style=for-the-badge&logo=quran&logoColor=white" alt="Quranic Challenge"/>
+        <p>Selected from 250 teams across 45 countries by Maqnoon Association</p>
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://img.shields.io/badge/2nd%20Place-NASA%20Space%20Apps%20Challenge%202024-blue?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Challenge"/>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🥉_3rd_Place-Baha_Hackathon_2024-1abc9c?style=for-the-badge&logo=city&logoColor=white" alt="Baha Hackathon"/>
+        <p>Competed with 52 teams in smart city solutions challenge</p>
       </td>
-      <td>
-        Organized by Albaha University, Saudi Space Agency & Communications Authority
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/3rd%20Place-Waqf%20Challenge%20Hackathon%202024-green?style=for-the-badge" alt="Waqf Challenge"/>
-      </td>
-      <td>
-        Among 1,500+ participants, Ministry of Awqaf initiative
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏅_Top_3,000-National_Competitive_Programming_2022-f1c40f?style=for-the-badge&logo=codepen&logoColor=black" alt="Programming Competition"/>
+        <p>Ranked among top 3,000 of 5,000+ registrants (Ministry of Communications and IT)</p>
       </td>
     </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Finalist-Quranic%20Applications%20Challenge%202024-purple?style=for-the-badge" alt="Quranic Challenge"/>
-      </td>
-      <td>
-        Selected from 250 teams across 45 countries, hosted by Maqnoon Association for Quran Memorization
+        <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.shields.io/badge/⭐_SCPC_Team_Selection-Saudi_Collegiate_Programming_Contest_2022-34495e?style=for-the-badge&logo=github&logoColor=white" alt="SCPC Selection"/>
+        <p>Selected from 500+ registrants by Ministry of Communications and IT</p>
       </td>
     </tr>
   </table>
@@ -327,14 +323,13 @@ Currently, I'm focused on enhancing my skills in AI and software engineering whi
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaALzahrani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="500" alt="Most Used Languages"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=FatimaALzahrani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="500" alt="GitHub Stats"/>
-  <br><br>
+<div align="center"> 
+      <img src="https://github-profile-trophy.vercel.app/?username=FATIMAALZAHRANI&theme=nord&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+    <br><br>  
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaALzahrani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"  alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaALzahrani&theme=tokyonight&hide_border=true" width="500" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=FATIMAALZAHRANI&theme=nord&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaALzahrani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="500" alt="Most Used Languages"/>
 </div>
 
 ## 📫 Connect With Me
